@@ -1,2 +1,2 @@
 # eCommerceBrazil
- Analizing Brazil eCommerce data
+ Analizing Brazil's eCommerce data
